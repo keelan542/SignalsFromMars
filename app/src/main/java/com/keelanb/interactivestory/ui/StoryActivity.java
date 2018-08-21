@@ -1,9 +1,11 @@
-package com.keelanb.interactivestory;
+package com.keelanb.interactivestory.ui;
 
 import android.content.Intent;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
+
+import com.keelanb.interactivestory.R;
 
 public class StoryActivity extends AppCompatActivity {
 
